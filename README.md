@@ -40,6 +40,7 @@
 - **[How to Buy Bitcoin](https://www.coinbase.com/learn/buying/how-to-buy-bitcoin)** - A beginner’s guide to purchasing Bitcoin.
 - **[Crypto Security Best Practices](https://bitcoin.org/en/secure-your-wallet)** - Tips for keeping your crypto assets safe.
 - **[Crypto Taxes Guide](https://www.coindesk.com/learn/cryptocurrency-tax-guide)** - A comprehensive guide to cryptocurrency taxes.
+- **[Crypto Capital Gains Tax by State (2026)](https://yourtaxbase.com/blog/crypto-capital-gains-tax-by-state-2026)** - A state-by-state breakdown of how U.S. crypto capital gains are taxed, including 0% states.
 
 ## Crypto Wallets
 
